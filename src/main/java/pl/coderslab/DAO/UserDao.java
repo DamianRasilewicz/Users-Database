@@ -3,7 +3,6 @@ package pl.coderslab.DAO;
 import org.mindrot.jbcrypt.BCrypt;
 import pl.coderslab.DbUtil;
 import pl.coderslab.entity.User;
-
 import java.sql.*;
 import java.util.Arrays;
 
@@ -109,7 +108,6 @@ public class UserDao {
             user.setAllParameters(id, username, email, password);
             userList = addToArray(user, userList);
         }
-//        System.out.println(Arrays.toString(userList));
         return userList;
     }
 

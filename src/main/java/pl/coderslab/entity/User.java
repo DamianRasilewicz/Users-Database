@@ -1,11 +1,5 @@
 package pl.coderslab.entity;
 
-import pl.coderslab.DAO.UserDao;
-import pl.coderslab.DbUtil;
-
-import java.sql.Connection;
-import java.sql.SQLException;
-
 public class User {
     private int id;
     private String userName;

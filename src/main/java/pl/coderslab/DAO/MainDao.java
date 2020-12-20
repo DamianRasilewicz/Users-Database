@@ -2,10 +2,7 @@ package pl.coderslab.DAO;
 
 import pl.coderslab.ConsoleColors;
 import pl.coderslab.entity.User;
-
 import java.sql.SQLException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
 public class MainDao {
@@ -44,13 +41,12 @@ public class MainDao {
                 deleteUser();
                     System.out.println();
                     break;
-//
+
                 case "findAll":
                 findAll();
                     System.out.println();
                     break;
 
-// other options
                 default:
                     System.out.println("Please select a correct option.");
             }
