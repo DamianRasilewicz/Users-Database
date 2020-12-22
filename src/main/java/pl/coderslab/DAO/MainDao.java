@@ -74,8 +74,8 @@ public class MainDao {
 
 
         System.out.println("Please type username");
-        while (!scanner2.hasNext()) {
-            scanner2.next();
+        while (!scanner2.hasNextLine()) {
+            scanner2.nextLine();
             System.out.println("Incorrect username");
         }
         username = scanner2.next();
