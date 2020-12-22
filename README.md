@@ -1,3 +1,4 @@
+﻿
 ﻿# Users Database
 It's the second Java workshop which I've made on Java Developer Web course in Coders Lab. Users Database uses console and MySQL database.
 
@@ -11,9 +12,7 @@ It's the second Java workshop which I've made on Java Developer Web course in Co
  7. Hashing Users' passwords
 
 ## User flow
-
-https://github.com/DamianRasilewicz/Warsztat2/blob/master/src/main/Demo/Demo.gif
-
+![](https://github.com/DamianRasilewicz/Warsztat2/blob/master/src/main/Demo/Demo.gif)
 ## Technologies
 -   Java
 -   MySQL
