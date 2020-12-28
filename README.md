@@ -1,6 +1,4 @@
-﻿
-﻿# Users Database
-Users Database which uses console and MySQL database.
+﻿Users Database which uses console and MySQL database.
 
 ## Features
  1. Very simple Users Database
