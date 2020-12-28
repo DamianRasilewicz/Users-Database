@@ -1,6 +1,6 @@
 ﻿
 ﻿# Users Database
-It's the second Java workshop which I've made on Java Developer Web course in Coders Lab. Users Database uses console and MySQL database.
+Users Database which uses console and MySQL database.
 
 ## Features
  1. Very simple Users Database
